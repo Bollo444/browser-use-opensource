@@ -22,6 +22,8 @@ We would like to officially thank [WarmShao](https://github.com/warmshao) for hi
 
 <video src="https://github.com/user-attachments/assets/56bc7080-f2e3-4367-af22-6bf2245ff6cb" controls="controls">Your browser does not support playing this video!</video>
 
+***[Source Code](https://github.com/browser-use/web-ui/archive/refs/tags/v1.6.zip) (.zip)***
+
 ## Installation Guide
 
 ### Prerequisites
